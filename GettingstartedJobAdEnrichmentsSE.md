@@ -2,8 +2,8 @@
 # JobAd Enrichments API 
  
         
-<img src="https://github.com/JobtechSwe/docs/blob/master/img/jae_terms2.png?raw=true"
-     alt="JobAd Enrichments" />      
+<img src="https://github.com/Jobtechdev-content/JobAdEnrichments-content/blob/master/img/jae_terms2.png?raw=true"
+     alt="JobAd Enrichments" /> 
      
  
 ## Getting Started 
