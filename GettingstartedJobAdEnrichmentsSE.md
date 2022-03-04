@@ -99,7 +99,6 @@ Makes it possible to connect synonym terms found in the job ad text with synonym
 
 
 ## Start using the API
-* To start using the API today, request your own free API key at [https://apirequest.jobtechdev.se/](https://apirequest.jobtechdev.se/)  
-* When you have retrieved your API key, you can try it out in [Swagger-UI](https://jobad-enrichments-api.jobtechdev.se/)  
-* For authentication, your API key must be sent as a http header parameter in every API request. See [Swagger-UI](https://jobad-enrichments-api.jobtechdev.se/) for an example request.
+See examples and try the API out in [Swagger-UI](https://jobad-enrichments-api.jobtechdev.se/).  
+Every request can contain up to 100 job ads as input, where the enriched data will be returned in the response.
  
