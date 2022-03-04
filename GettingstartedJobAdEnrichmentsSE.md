@@ -19,7 +19,7 @@ This enables intelligent job matching, labor market analysis, and provides up-to
 * [What the API does](#What-the-API-does) 
 * [Example of use case when using the API](#Example-of-use-case-when-using-the-API) 
 * [The main endpoints of the API](#The-main-endpoints-of-the-API) 
-* [Start using the API (request your API key to get going today)](#Start-using-the-API) 
+* [Start using the API](#Start-using-the-API) 
   
 ## API Status and Implementation
 In order to assist in the development of our API’s we strive for early 
